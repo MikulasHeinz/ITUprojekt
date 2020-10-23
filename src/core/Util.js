@@ -2,6 +2,7 @@
  * Backtrace according to the parent records and return the path.
  * (including both start and end nodes)
  * @param {Node} node End node
+ * @author xueqiaoxu@gmail.com
  * @return {Array<Array<number>>} the path
  */
 function backtrace(node) {
